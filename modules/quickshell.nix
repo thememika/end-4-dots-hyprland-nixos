@@ -35,6 +35,7 @@ in
       kdePackages.qtvirtualkeyboard
       kdePackages.qtwayland
       kdePackages.syntax-highlighting
+      qt5.qtgraphicaleffects
     ];
 
     xdg.configFile."quickshell".source = "${illogical-impulse-dotfiles}/.config/quickshell";
